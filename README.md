@@ -22,6 +22,12 @@
 
 [VMware Training and Certification Program](https://www.vmware.com/education-services/certification.html)
 
+[Cloudera Certification Program](https://www.cloudera.com/about/training/certification.html)
+
+[Salesforce Certification Program](https://trailhead.salesforce.com/credentials/administratoroverview)
+
+[Salesforce Superbadges](https://trailhead.salesforce.com/superbadges)
+
 [Red Hat Training and Certification Program](https://www.redhat.com/en/services/training-and-certification)
 
 [Linux Foundation Training and Certification Program](https://training.linuxfoundation.org/certification/)
